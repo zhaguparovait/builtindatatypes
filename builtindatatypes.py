@@ -29,7 +29,3 @@ result = float(False)
 print(result)
 result = float(None)
 print(result)
-
-
-
-
